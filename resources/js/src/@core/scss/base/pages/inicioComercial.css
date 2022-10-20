@@ -1,0 +1,194 @@
+.tableAsigned {
+  width: 99%;
+  margin-left: 6px !important;
+}
+
+.logoSvg {
+  width: 60px;
+  height: 60px;
+  background: #ff6600;
+  border-radius: 50px;
+}
+
+.logoSvg2 {
+  width: 60px;
+  height: 60px;
+  margin-left: -60px;
+  float: right;
+}
+
+.logomovil {
+  width: 265px !important;
+}
+
+.hrmodal {
+  height: 0.1em;
+  background: #5e5e5e;
+  border: 1px solid transparent;
+}
+
+.bar {
+  background: #ff6600;
+  color: white;
+  text-align: center;
+}
+
+.widthIcon {
+  width: 70px !important;
+  height: 23px;
+  padding: 2px;
+}
+
+.widthIcons {
+  width: 70px;
+  height: 53px;
+}
+
+.widthIcon2 {
+  width: 90px !important;
+  height: 23px;
+  padding: 2px;
+}
+
+.lineCard {
+  border: 1px solid #ff6600;
+}
+
+.styleImg {
+  width: 60px;
+  height: 60px;
+  background: #ff6600;
+  border-radius: 50px;
+}
+
+@media only screen and (min-width: 768px) {
+  .fontSpan {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .iconoscard {
+    margin-left: -64px !important;
+  }
+
+  .textocardm {
+    margin-left: 30px !important;
+  }
+
+  .iconoscard2 {
+    margin-left: -23px !important;
+  }
+
+  .textocardfecha2m {
+    margin-left: -156px !important;
+  }
+
+  .ajustarTexto {
+    margin-left: -9px !important;
+  }
+
+  .ajustarTexto2 {
+    margin-left: 29px !important
+  }
+}
+
+.typeTransporyt {
+  width: 60px;
+  height: 60px;
+  background: #ff6600;
+  border-radius: 50px;
+}
+
+.textocardfecha {
+  margin-left: -31px;
+}
+
+@media (max-width: 2500px) {
+  .textocard {
+    margin-left: 10px;
+  }
+
+  .textocardfecha {
+    margin-left: -31px;
+  }
+
+  .textocard3 {
+    margin-left: -94px !important;
+  }
+
+  .textocardfecha2 {
+    margin-left: -127px;
+  }
+
+  .ajustarTexto3 {
+    margin-left: -9px;
+  }
+
+  .ajustarterr1 {
+    margin-left: -37px;
+    ;
+  }
+
+  .ajustarterr2 {
+    margin-left: -103px;
+  }
+
+  .ajustarmar1 {
+    margin-left: -35px;
+  }
+
+  .ajustarmar2 {
+    margin-left: -101px;
+  }
+}
+
+@media (max-width: 1540px) {
+  .iconoscard {
+    margin-left: -51px;
+  }
+
+  .textocard {
+    margin-left: -40px;
+  }
+
+  .textocard2 {
+    margin-left: -112px !important;
+  }
+
+  .textocardfecha {
+    margin-left: -25px;
+  }
+
+  .textocardfecha2 {
+    margin-left: -103px;
+  }
+
+  .ajustarTexto {
+    margin-left: -26px;
+  }
+
+  .ajustarTexto2 {
+    margin-left: -27px;
+  }
+
+  .ajustarTexto3 {
+    margin-left: -23px !important;
+  }
+
+  .ajustarterr1 {
+    margin-left: -51px;
+  }
+
+  .ajustarterr2 {
+    margin-left: -102px;
+  }
+
+  .ajustarmar1 {
+    margin-left: -54px;
+  }
+
+  .ajustarmar2 {
+    margin-left: -102px;
+  }
+}

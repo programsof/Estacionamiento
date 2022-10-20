@@ -1,0 +1,26 @@
+.tableEmailss {
+    background: #ff6600 !important;
+    color: white !important;
+    border-radius: 10px 0px 0px 0px;
+  }
+  
+  .tableEmailss2 {
+    background: #ff6600 !important;
+    color: white !important;
+    border-radius: -1px 10px 0px 0px;
+  }
+  .tableEmailss3 {
+    background: #ff6600 !important;
+    color: white !important;
+    border-radius: -1px 0px 0px 0px;
+  }
+  .tableEmailss4 {
+    background: #ff6600 !important;
+    color: white !important;
+    border-radius: 1px 10px 0px 0px;
+  }
+  
+  .columTables {
+    background: white !important;
+    color: #ff6600 !important;
+  }
